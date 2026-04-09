@@ -1,4 +1,4 @@
-# SWE Resume Builders: Events, Workshops & Opportunities (2027)
+# SWE Resume Builders: Events, Workshops & Opportunities (2026 - 2027)
 Resume Builders for Software Engineering Internships and to learn more about tech companies
 | Company | Name | Date | Location | Website |
 |-------|------|----|----|--------|
