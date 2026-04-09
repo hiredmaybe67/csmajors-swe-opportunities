@@ -1,5 +1,7 @@
 # SWE Resume Builders: Events, Workshops & Opportunities (2026 - 2027)
-Resume Builders for Software Engineering Internships and to learn more about tech companies
+Not just job listings — real recruiting events, workshops, and early-access pipelines for software engineering internships.
+
+
 | Company | Name | Date | Location | Website |
 |-------|------|----|----|--------|
 |IMC | 2026 Launchpad Quant Trading Program | May 13-15, 2026 | Chicago IL | [2026 Launchpad Quant Trading Program](https://www.imc.com/us/careers/jobs/4781344101?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
