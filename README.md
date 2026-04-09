@@ -6,4 +6,4 @@ Resume Builders for Software Engineering Internships and to learn more about tec
 | Microsoft | Virtual | Microsoft Virtual Training Day: Create Agents in Microsoft Copilot Studio | 
 | NVIDIA | Multiple Locations | Multiple Events | Ongoing | - | [ https://luma.com/spark-hack-nyc](https://www.nvidia.com/en-us/events/) |
 | BMO | Virtual | Multiple Sessions | Recruiter Ask Us Anything | - | https://jobs.bmo.com/ca/en/student-events |
-| Capital One | Virtual | April 14| [Capital One's 2027 Tech Programs & Recruiter Q&A](https://capitalone.eightfold.ai/events/candidate?plannedEventId=1WAyZA0W&domain=capitalone.com)|
+| Capital One | Virtual | April 14| [Recruiter Q&A](https://capitalone.eightfold.ai/events/candidate?plannedEventId=1WAyZA0W&domain=capitalone.com) [Ace That Coding Assessment Workshop](https://capitalone.eightfold.ai/events/candidate?plannedEventId=yP2MG2Mz&domain=capitalone.com)|
