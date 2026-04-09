@@ -7,3 +7,5 @@ Resume Builders for Software Engineering Internships and to learn more about tec
 | NVIDIA | Multiple Locations | Multiple Events | Ongoing | - | [ https://luma.com/spark-hack-nyc](https://www.nvidia.com/en-us/events/) |
 | BMO | Virtual | Multiple Sessions | Recruiter Ask Us Anything | - | https://jobs.bmo.com/ca/en/student-events |
 | Capital One | Recruiter Q&A | Virtual | Multiple Dates| [Recruiter Q&A](https://capitalone.eightfold.ai/events/candidate?plannedEventId=1WAyZA0W&domain=capitalone.com) [Ace That Coding Assessment Workshop](https://capitalone.eightfold.ai/events/candidate?plannedEventId=yP2MG2Mz&domain=capitalone.com)|
+| Akuna Capital | C++ Tech Sneak Peek Week | August 2026 | Chicago IL | https://akunacapital.com/careers/job/7395488/c-tech-sneak-peek-week-august-2026/?gh_jid=7395488 | 
+| | C++ Tech Sneak Peek Week: Reaching Women | June 2026 | Chicago IL | https://akunacapital.com/careers/job/7395187/c-tech-sneak-peek-week-reaching-women-june-2026/?gh_jid=7395187 | 
