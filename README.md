@@ -1,4 +1,4 @@
-# SWE Resume Builders: Events, Workshops & Opportunities (2026 - 2027)
+# SWE Resume Builders: Events, Workshops & Opportunities
 Software engineering internship events, recruiting workshops, hackathons, and resume-building opportunities to land that internship or new grad offer
 
 | Company | Name | Date | Location | Website |
