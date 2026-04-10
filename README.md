@@ -1,5 +1,6 @@
 # SWE Resume Builders: Events, Workshops & Opportunities
 Software engineering internship events, recruiting workshops, hackathons, and resume-building opportunities to land that internship or new grad offer
+
 **NEW** [Company Tips](https://github.com/hiredmaybe67/SWE-Internships-summer-2027/blob/main/info/README.md) for specfific companies 
 
 | Company | Name | Date | Location | Website |
